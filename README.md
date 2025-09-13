@@ -1,7 +1,8 @@
 "# online-bookstore" 
 
 
-A Full-Stack Web Application for browsing, searching, and managing books.
+Description: A full-stack e-commerce application for an online bookstore. Users can register, log in, browse and search for books, add items to a shopping cart, and complete the checkout process. The application features a responsive front-end and a robust back-end with RESTful APIs.
+
 Built using React.js (Frontend), Node.js + Express (Backend), and MongoDB (Database).
 
 Features
